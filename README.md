@@ -1,6 +1,7 @@
+Olá, meu nome é Henrique Barreto, aqui está um pouco sobre quem sou e o que trabalho!
 💻 Desenvolvedor Mobile com experiência em tecnologia, combinando prática profissional e aprendizado contínuo ao longo de 4 anos. Atualmente, curso 6º semestre de Ciência da Computação e trabalho com Node.j, React Native e Flutter, além de ter domínio em C, C#, Python, Java.
 Minhas aspirações advem da paixão por criação de aplicações mobile IOS e Android, logo, procuro de forma contínua me atualizar quanto as tecnologias, pretendo adicionar às minhas atuais habilidades a parte avançada de flutter e kotlin.
-🚀 Minha trajetória inclui estágios e residências em desenvolvimento de software, onde atuei na criação e manutenção de aplicações para startups e empresas renomadas, colaborando com equipes multidisciplinares. Sempre em busca de evolução, me aprofundo em arquitetura de software, APIs RESTful e bancos de dados SQL, explorando novas tecnologias e boas práticas para criar soluções escaláveis e eficientes.
+🚀 Minha trajetória inclui experiencias com tecnologia em manutenção de hardweare e redes, residências em desenvolvimento de software, onde atuei na criação e manutenção de aplicações para startups e empresas renomadas, colaborando com equipes multidisciplinares. Sempre em busca de evolução,trilho no desenvolvimento de aplicações que envolvam APIs RESTful e bancos de dados SQL, explorando novas tecnologias e boas práticas para criar soluções escaláveis e eficientes.
 
 🔗 Vamos conectar? Sempre aberto a novas oportunidades e trocas de conhecimento!
 ##
